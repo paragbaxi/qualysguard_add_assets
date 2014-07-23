@@ -1,0 +1,1 @@
+Enable VM,Enable PC,IPs,Tracking method,Asset group title,Comment,Owner,User defined 1,User defined 2,User defined 31,0,10.0.0.0,IP,A,Comment,base_user1,Whatever,,0,1,10.1.0.0/24,dns,B,,base_user1,,You,Yes,No,"10.2.0.0/24,10.255.255.254-255, 192.168.0.1",Netbios,"AG1, AG3",Above has no comment.,base_user2,,,Want
